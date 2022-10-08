@@ -1,4 +1,4 @@
 # ZESTY-iOS
 
-### ZESTY iOS 레포지토리 
+### ZESTY iOS Repo
 https://github.com/DeveloperAcademy-POSTECH/MacC-TEAM-ZESTY
